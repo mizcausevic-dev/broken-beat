@@ -12,6 +12,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3118,
+      "sha256": "e901afda22e9ea784ea88a3bfccda071c46ac7816a8f6e180b476e57f3392373"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -43,8 +53,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1599,
-      "sha256": "d1bf459f69769c3097152c91ce6f6f4cda44c46ccee05e7acc4a424c1b11b938"
+      "bytes": 1821,
+      "sha256": "26a0fcdb5bd1ab1dfb86846044b96ac33795c22a2ac3250d395862798c72f405"
     },
     {
       "path": "catalog/release-spec.json",
@@ -78,8 +88,8 @@
     },
     {
       "path": "downloads/broken-beat-midi.zip",
-      "bytes": 34056,
-      "sha256": "62c6f6f8d858c2a783f67f93f787d465f998109dbb4ce298c8cb152a1474edb0"
+      "bytes": 35714,
+      "sha256": "d765837a113a919cc328aa3a4038ecae44b9e5195ed7d2055c02a2f21e8394be"
     },
     {
       "path": "index.html",
@@ -233,13 +243,8 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1039,
-      "sha256": "788500ee9a572ca781410b4bf1010e9b5561c60f5322057059c32bfe925b7c2f"
-    },
-    {
-      "path": "README.md",
-      "bytes": 2957,
-      "sha256": "d7a1d08950f34c17de113678fe17ec859059ce36514144c6075eb576d1437271"
+      "bytes": 1122,
+      "sha256": "d88a8810f6dffcab4d81d6a1cff3b3dcbd21f29d75af09d40655465c83560089"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -253,13 +258,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 47235,
-      "sha256": "c0abe9cf1a144cdc7da7a652cae05056e5b150082fbe129914d67230b97d1fc5"
+      "bytes": 47412,
+      "sha256": "a3156f76517f4653a5a51ed4786dbc3390adf3b976691399e2d7b2570f69e54f"
     },
     {
       "path": "tools/validate_release.py",
