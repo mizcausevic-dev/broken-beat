@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+bb01,Bent Meter,pack-local equal-tempered pitch collection,D,118,4/4,480,32,61440,midi/bb01-bent-meter/bb01-bent-meter-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bb02,Paper Sync,pack-local equal-tempered pitch collection,F,118,4/4,480,32,61440,midi/bb02-paper-sync/bb02-paper-sync-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bb03,Near Miss,pack-local equal-tempered pitch collection,G#,118,4/4,480,32,61440,midi/bb03-near-miss/bb03-near-miss-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bb04,True Return,pack-local equal-tempered pitch collection,D#,118,4/4,480,32,61440,midi/bb04-true-return/bb04-true-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
