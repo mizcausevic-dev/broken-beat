@@ -1,0 +1,26 @@
+{
+  "title": "Broken Beat",
+  "study": "bb01",
+  "bpm": 118,
+  "source_audio": "preview/broken-beat-simple-synth-preview.mp3",
+  "source_audio_sha256": "bfce207531cc458ed169af8ef2528da905718412a7ee1d22ace481142961b016",
+  "source_midi": "midi/bb01-bent-meter/bb01-bent-meter-combined.mid",
+  "source_midi_sha256": "721ba70fe99def56337a5dce3952fd97c9b0c8f1b0e4e1a8aa63ef5d902dcd57",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "d3ce1d37ab168e9de11292c3e96e21e4297999fcb6c4c7023ebe0665ffb4325a",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "d9d7f861c6a2051eee7a7e741885f7a7a5eb588b49c28257e14d5a9c52ee3e87",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "6e595f05f2e470de1afbeb1300340384f70e3d2db91bb5a92f8c83307bd93a54",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
