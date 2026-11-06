@@ -1,11 +1,11 @@
 {
   "generator_version": "release-train-1.0.0",
   "pack": "broken-beat",
-  "source_builder_sha256": "c0abe9cf1a144cdc7da7a652cae05056e5b150082fbe129914d67230b97d1fc5",
+  "source_builder_sha256": "e9119aa14ecd5a808650e414655f5667d3ea3289ad40b9c6ba85700a41d48ffc",
   "commands": [
     "python tools/build_release.py --pack broken-beat",
     "python tools/validate_release.py"
   ],
-  "run_time_utc": "2026-11-04T03:13:53.437180+00:00",
+  "run_time_utc": "2026-11-06T18:53:37.218274+00:00",
   "python": "3.14.0"
 }
