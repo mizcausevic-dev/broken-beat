@@ -78,8 +78,8 @@
     },
     {
       "path": "downloads/broken-beat-midi.zip",
-      "bytes": 33611,
-      "sha256": "c03e7ec1b6682db21cfc12b219070167e9bda4b60e11cca8f8223c890638811f"
+      "bytes": 36086,
+      "sha256": "ac192d639a2c5cd1235cf73a23a053baf5244290aea259944fddc002250de702"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -113,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10237,
-      "sha256": "2266bcf236e4b0e8f4a3ecf4b4ac8ea78be153bd507e81e68f3f4582fe9e9929"
+      "bytes": 10427,
+      "sha256": "c68ad627ff01a043f8b6cceee6917d4ba131c43aecf8e9c03881e03068dea470"
     },
     {
       "path": "midi/bb01-bent-meter/bb01-bent-meter-combined.mid",
@@ -257,6 +257,11 @@
       "sha256": "b3982fad5b17926a2615ebc664d9131555ff543e5ce4cb62bf5a821d0a962eea"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 782,
       "sha256": "9052feb588bba8d4ee0b712bf18e751800d88c533c2054e3002a00791090e10a"
@@ -273,8 +278,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3336,
-      "sha256": "bf52e571faecc05d8069f9614599d2fb0c55cec4ee7a643cbee5274ed0dc514f"
+      "bytes": 3451,
+      "sha256": "d07ebda74d833be52f115c6fc8eae2e809d9b6226ea6029cac6c47c9f119560e"
     },
     {
       "path": "RENDERER-METADATA-CORRECTION.md",
